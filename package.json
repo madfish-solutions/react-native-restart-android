@@ -39,13 +39,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/keshan3262/temple-wallet-react-native-restart-android",
+  "repository": "https://github.com/madfish-solutions/react-native-restart-android",
   "author": "Inokentii Mazhara <keshan3262@gmail.com> (https://github.com/keshan3262)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/keshan3262/temple-wallet-react-native-restart-android/issues"
+    "url": "https://github.com/madfish-solutions/react-native-restart-android/issues"
   },
-  "homepage": "https://github.com/keshan3262/temple-wallet-react-native-restart-android#readme",
+  "homepage": "https://github.com/madfish-solutions/react-native-restart-android#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
